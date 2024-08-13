@@ -72,5 +72,4 @@ export const App = () => {
       <ContactList deleteContact={handleDeleteContact} contacts={contacts} />
     </div>
   );
-
 };
